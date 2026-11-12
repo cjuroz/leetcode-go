@@ -1,0 +1,15 @@
+.DS_Store
+*.exe
+*.out
+*.test
+coverage.out
+
+# Go build artifacts
+/bin/
+/pkg/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
